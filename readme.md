@@ -25,4 +25,9 @@ Afficher le nombre de jour dans le mois de février de l'année 2016.
 Afficher la date du jour + 20 jours.
 
 ##Exercice 8
-Afficher la date du jour - 22 jours.
+Afficher la date du jour - 22 jours
+
+##TP
+Faire un formulaire avec deux listes déroulantes. La première sert à choisir le mois, et le deuxième permet d'avoir l'année.  
+En fonction des choix, afficher un calendrier comme celui ci :  
+![Calendrier](http://michelzbinden.com/images/cal-fr/me/calendrier-aout-2016-blanc-carre-d.jpg "Calendrier")
