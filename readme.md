@@ -5,7 +5,7 @@
 Afficher la date courante en respectant la forme **jj/mm/aaaa** *(ex : 16/05/2016)*
 
 ##Exercice 2
-Afficher la date courante en respectant la forme **jj-mm-aa** *(ex : 16/05/16)*
+Afficher la date courante en respectant la forme **jj-mm-aa** *(ex : 16-05-16)*
 
 ##Exercice 3
 Afficher la date courante avec le jour de la semaine et le mois en toutes lettres *(ex : mardi 2 août 2016)*  
